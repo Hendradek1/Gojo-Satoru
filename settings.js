@@ -10,27 +10,27 @@ const chalk = require('chalk')
 
 //Api Website\\
 global.APIs = {
-	zenz: 'https://zenzapis.xyz',
+	zenz: '',
 }
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'sanzychan01', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
+	'': 'sanzychan01', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
-global.footer = '©NexusNwInc.'
-global.ig = 'https://github.com/nexusNw'
+global.owner = ['4365070002069']
+global.premium = ['4365070002069']
+global.ownernomer = '4365070002069'
+global.ownername = '🐦Hendraaa.'
+global.botname = 'Hendra'
+global.footer = '©Hendradek.'
+global.ig = ''
 global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy Nexus'
+global.sc = ''
+global.myweb = ''
+global.packname = 'Hendra'
+global.author = '🐦Hendra'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
